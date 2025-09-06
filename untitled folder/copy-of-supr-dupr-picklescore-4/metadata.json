@@ -1,0 +1,5 @@
+{
+  "name": "copy of Supr Dupr PickleScore",
+  "description": "A visual pickleball scoring application that helps track player positions, the score, and server information in real-time. It features a top-down court view, audio score callouts, and follows official pickleball serving rules.",
+  "requestFramePermissions": []
+}
